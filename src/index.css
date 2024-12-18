@@ -3,7 +3,7 @@
 
 
 body{
-    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: "Montserrat",sans-serif;
 }
 section{
     min-height:100vh;
@@ -29,5 +29,5 @@ h2 {
     margin: 1.25rem 0 1.5rem;
 }
 p{
-    font-family:"Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+    font-family:"Lato", sans-serif;
 }
